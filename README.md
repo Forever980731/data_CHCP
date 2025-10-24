@@ -1,0 +1,1 @@
+Due to the large dataset used for training pointnet++(over 3GB), which exceeds the file upload limit of Github (25MB), interested readers are advised to contact the corresponding author Xiaomeng Tong（ tongxiaomeng@buaa.edu.cn ）Obtain the dataset.
